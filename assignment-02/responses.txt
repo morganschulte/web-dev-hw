@@ -1,0 +1,4 @@
+Data travels the internet in many ways. One of these ways is through fiber optics. A fiber optic cable is a very small thread of glass that can transport light. Those tiny threads can send multiple bits simultaneously at the speed of light. This means that information can be sent across the globe in a matter of seconds.
+An IP address is the address of whatever device someone is using to access the internet. This is just like a physical address. The DNS is a domain name system. This is the name that corresponds with the correct IP address where a website is located. So while Google is named Google, there is a corresponding set of numbers for the website IP address.
+Cookies are tiny text files that are stored in your computer while using a web browser. Cookies help websites function.
+The three basic parts of a URL are the protocol, domain, and path.
