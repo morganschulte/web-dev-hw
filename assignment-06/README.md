@@ -1,0 +1,8 @@
+# Assignment-06
+## Morgan Schulte
+
+Most of the forms I find on the web are websites asking to sign up for newsletters. They sometimes come with a discount if you sign up. I'm guessing that most of the forms I fill out now are on Moodle and happen with quizzes or other assignments. I also fill out forms any time I order something online, which happens more often than it should.
+
+An example of a type of text input would be type="text". This can be used for things like my NetID to sign into Moodle. You can see this text, so its not like a password that shows up hidden on the screen. Radio buttons are a type of selection. They can be used in a multiple choice question with only one answer, like a true or false question. An image button is a type of button where an image may be used instead of a regular submit button. This makes things more customizable, and can add more flair to a page. Instead of a plain rectangle with "send" inside, you can have a graphic of a letter with the word "send" written on it.
+
+My work cycle for this assignment was going through the website text, then starting with the basics that I was comfortable with (the four main and meta elements). I then had the walkthrough video playing as I started to get into the details. I went to w3schools to see what they had for HTML forms, which was very helpful. I was able to customize my own form while checking it with the one on the website. I made sure to refresh my HTML page so that I knew everything was working before I continued on. I made a button on dabuttonfactory.com, which showed up high on the google search. 
