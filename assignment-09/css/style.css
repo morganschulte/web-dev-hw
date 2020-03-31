@@ -1,0 +1,31 @@
+/* Remember to use color palette in all styling */
+.square {
+  text-align: center;
+  display: inline-block;
+  }
+  h1 {color: rgb(140, 101, 29)}
+  p {text-align: center; padding: 10px}
+.title {
+  text-align: left;
+}
+#red {
+  background-color:rgba(224, 33, 0, 0.9);
+  width: 34%;
+  height:100%;
+  position: absolute;
+  left:0
+}
+#lightjeans {
+  background-color:rgba(103, 153, 170, 0.8) ;
+  width: 34%;
+  height:100%;
+  position: absolute;
+  left:33%
+}
+#babypink {
+  background-color:rgb(247, 176, 238, 0.8) ;
+  width: 34%;
+  height:100%;
+  position: absolute;
+  left:66%
+}
