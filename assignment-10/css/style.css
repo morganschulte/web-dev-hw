@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@1,400;1,900&display=swap');
+/* Remember to make font appropriate for late 60's */
+body {
+background-color: rgb(90, 140, 108);
+color: rgb(221, 207, 183);
+padding: 6px;
+font-family: 'Libre Baskerville', serif;
+line-height: 2em;
+}
+/*excerpt */
+.text {
+background-color: rgb(46, 68, 63);
+color: rgb(217, 236, 229);
+padding: 12px;
+font-family: 'Montserrat', sans-serif;
+font-style: italic;
+}
+p:first-of-type:first-letter {
+font-family: 'Libre Baskerville', serif;
+font-size: 3em;
+font-weight:bold;
+font-style: italic;
+color:rgb(198, 142, 67);
+}
+/*link */
+a {
+background-color: rgb(195, 82, 58);
+color:rgb(221, 207, 183);
+padding: 6px
+}
+a:hover {
+font-style: italic;
+}
+a:visited {
+color:rgb(198, 142, 67);
+}
