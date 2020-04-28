@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@1,400;1,900&display=swap');
+body {
+  background-color: #8FA1A6;
+  margin: 0;
+  font-size: 1.25em;
+font-family: 'Montserrat', sans-serif;
+}
+.header {
+  margin: 0;
+  float: left;
+  background-color: #401E12;
+  color: #FFFF;
+  text-align: center;
+  line-height: 100%;
+  padding:0px;
+  width:33%;
+  height:16%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.logo{
+  background-color:  #8FA1A6;
+  width: 120px;
+  height: 120px;
+  position: fixed;
+  top: 2%;
+  left: 2%;
+  border: 5px solid #732002;
+  border-color: #732002;
+  border-radius: 100%;
+  line-height: 120px;
+  font-size: 100%;
+}
+.logo:hover {
+border: 5px solid #A66F5B;
+}
+.topbanner {
+  margin: 0;
+  overflow: auto;
+  float: right;
+  align-self: center;
+  background-color: #A66F5B;
+  width: 67%;
+  height: 8%;
+  text-align: center;
+  color:#FFFF;
+  position: fixed;
+  top: 0;
+  left: 33%;
+}
+.topnav {
+  margin: 0;
+  float: right;
+  align-self: right;
+  background-color: #732002;
+  text-align: center;
+  width: 67%;
+  height:8%;
+  position: fixed;
+  top: 8%;
+  left: 33%;
+  font-size: 160%;
+}
+.topnav a {
+  float: left;
+  display: block;
+  background-color: #732002;
+  color:#FFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  width: 30%;
+  font-size: 200%;
+}
+.topnav a:hover {
+  background-color: #A66F5B;
+}
+.social {
+  position: fixed;
+  float: left;
+  top: 16%;
+  width: 33%;
+  height: 100px;
+}
+.social img {
+  float: left;
+  height: 75px;
+}
+.bottombanner {
+  margin: 0;
+  overflow: auto;
+  float: right;
+  align-self: center;
+  background-color: #8FA1A6;
+  width: 67%;
+  height: 8%;
+  text-align: center;
+  color:#FFFF;
+  position: fixed;
+  top: 16%;
+  left: 33%;
+}
+.main1 {
+  margin: 0;
+  overflow: auto;
+  float: left;
+  align-self: center;
+  background-color: #8FA1A6;
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  color:#FFFF;
+  position: fixed;
+  top: 24%;
+  left: 2%;
+}
+.main2 {
+  margin: 0;
+  overflow: auto;
+  float: left;
+  align-self: center;
+  background-color: #8FA1A6;
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  color:#FFFF;
+  position: fixed;
+  top: 24%;
+  left: 35%;
+}
+.main3 {
+  margin: 0;
+  overflow: auto;
+  float: left;
+  align-self: center;
+  background-color: #8FA1A6;
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  color:#FFFF;
+  position: fixed;
+  top: 24%;
+  left: 68%;
+}
+a {
+color:#FFFF;
+padding: 20px;
+}
+a:hover {
+font-style: italic;
+}
