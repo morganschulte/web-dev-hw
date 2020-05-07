@@ -1,0 +1,22 @@
+div.gallery {
+  margin: 15px;
+  border: 3px solid #8AA64E;
+  float: inherit;
+  width: 95%;
+}
+
+div.gallery:hover {
+  border: 3px solid #F23005;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 1.5em;
+}

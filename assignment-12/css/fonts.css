@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&family=Permanent+Marker&family=Roboto&display=swap');
+
+
+@font-face {
+  font-family: 'PermanentMarker';
+  src: url('./fonts/PermanentMarker-Regular.tff') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PatrickHandSC-Regular';
+  src: url('./fonts/PatrickHandSC-Regular.tff') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('./fonts/Roboto-Bold.tff') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url('./fonts/Roboto-Light.tff') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-LightItalic';
+  src: url('./fonts/Roboto-LightItalic.tff') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}

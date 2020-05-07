@@ -1,0 +1,152 @@
+/* web colors are #8AA64E #A9BF04 #F23005 #A60303 #F2F2F2 */
+Body {
+  background-color: #8AA64E;
+  background-image: url('../images/foodbackground.png');
+}
+h1{
+  margin: 0;
+  font-family: 'Permanent Marker', cursive;
+  color: #A60303;
+  text-align: center;
+}
+h2 {
+  font-family: 'Patrick Hand SC', cursive;
+}
+h3 {
+  font-family: 'Roboto-Bold', Arial, Helvetica, sans-serif;
+}
+* {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    line-height: 1.45em;
+}
+p:first-letter{
+  font-size: 1.5em;
+  color: #8AA64E;
+  font-family: 'Permanent Marker', cursive;
+}
+q {
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 1.2em;
+    font-stretch: ultra-condensed;
+    color: #A60303;
+    font-weight: 800;
+}
+a {
+  font-family: 'Patrick Hand SC', cursive;
+  text-decoration: none;
+}
+.main-container {
+  width: 70%;
+  max-width: 900px;
+  margin: 3em auto;
+  padding: 3em;
+  background-color: #F2F2F2;
+  border: 3px solid #F23005;
+}
+header {
+
+}
+main {
+text-align: justify;
+margin: 4em 4em 1em 1em;
+}
+footer {
+  margin-top: 3em;
+  text-align: center;
+  font-size: .75em;
+
+}
+.site-heading {
+  width: 60%;
+  margin: 4em auto;
+  padding: 3em;
+  position: relative;
+  border: 6px solid #A9BF04;
+  z-index: 1;
+  text-align: center;
+}
+#site-title {
+margin: .7em;
+line-height: 1em;
+font-size: 3em;
+color: #F23005;
+}
+#site-slogan {
+  margin: .7em;
+  line-height: 1em;
+  font-size: 1em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #A60303
+}
+.site-logo {
+  margin: auto;
+  margin-top: -120px;
+  height: 120px;
+  width: 120px;
+  display: block;
+  z-index: 2;
+}
+.pull-quote {
+  width: 30%;
+  margin: 2em 0 0 2em;
+  min-width: 200px;
+  padding: 1em;
+  float: right;
+  text-align: right;
+}
+.link {
+  margin: auto;
+  width: 30%;
+  min-width: 200px;
+  float: center;
+  font-size: 2em;
+  color: #8AA64E;
+  display: block;
+  text-align: center;
+}
+
+.form {
+  border: 2px solid #8AA64E;
+  border-radius: 4px;
+}
+.button {
+  margin: auto;
+  position: relative;
+  min-height: 2em;
+  height: 3em;
+  width: 9em;
+  background-color: #F23005;
+  border-color: #F23005;
+  border-width: 5px;
+  border-style: ridge;
+}
+.button h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2em;
+  color: #F2F2F2;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-style: wavy;
+  text-shadow: 2px;
+}
+.button:hover {
+  margin: auto;
+  position: relative;
+  min-height: 2em;
+  height: 3em;
+  width: 9em;
+  background-color: #A60303;
+  border-color: #F23005;
+  border-width: 5px;
+  border-style: ridge;
+}
+.button:hover h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2em;
+  color: #F2F2F2;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-style: wavy;
+  text-shadow: 2px;
+}
