@@ -1,0 +1,25 @@
+/* web colors are #0A0B0D #1A1E26 #80848C #2C3540 #5A6473 #F2F2F2 */
+div.gallery {
+  margin: 15px;
+  border: 3px solid #0A0B0D;
+    border-radius: 6px;
+  float: inherit;
+  width: 95%;
+}
+
+div.gallery:hover {
+  border: 6px solid #1A1E26;
+  border-radius: 6px;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 1.5em;
+}
